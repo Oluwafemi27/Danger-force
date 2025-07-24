@@ -1,6 +1,6 @@
-# Free Fire MAX - Android Project
+# Danger Force - Android Project
 
-This repository contains the extracted source files from an Android application package (APK) for Free Fire MAX, a popular mobile game.
+This repository contains the extracted source files from an Android application package (APK) for Danger Force, a mobile action game.
 
 ## Project Structure
 
@@ -16,8 +16,8 @@ This repository contains the extracted source files from an Android application 
 
 ## Key Components
 
-- **Package Name**: `com.dts.freefireadv`
-- **Firebase Project**: free-fire-8cd39
+- **Package Name**: `com.dts.dangerforce`
+- **Firebase Project**: danger-force-8cd39
 - **Game Engine**: Unity3D
 - **Platform**: Android
 
